@@ -1,0 +1,12 @@
+{
+  "name":"Chequeá Importa — Centro de compras internacionales",
+  "short_name":"Chequeá",
+  "description":"Calculá y organizá tus importaciones a Uruguay",
+  "lang":"es-UY",
+  "start_url":"./#inicio",
+  "scope":"./",
+  "display":"standalone",
+  "background_color":"#f6f8fc",
+  "theme_color":"#07172b",
+  "icons":[{"src":"favicon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}]
+}
